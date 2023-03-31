@@ -20,6 +20,10 @@ This is an ordered list:
 
 This is unordered:
 - item 1
+<<<<<<< HEAD
 - item 2
 
 test to push to github test
+=======
+- item 2 hello world
+>>>>>>> 4c2363e1c4d2f43d2d5e873cdbf81d9c0fe084d3
