@@ -10,3 +10,5 @@ hash followed by a space is heading
 ## Heading 2 test
 
 Double asterisk is bold, example **this is bold**
+
+[click here to google](www.google.com)
