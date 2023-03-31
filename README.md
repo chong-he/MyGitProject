@@ -6,3 +6,5 @@ Trying to use Markdown language, underscore _is italic_
 hash followed by a space is heading 
 
 # Heading 1
+
+## Heading 2 test
