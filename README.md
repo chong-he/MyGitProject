@@ -8,3 +8,5 @@ hash followed by a space is heading
 # Heading 1
 
 ## Heading 2 test
+
+Double asterisk is bold, example **this is bold**
