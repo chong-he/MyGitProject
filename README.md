@@ -34,5 +34,4 @@ hello, this is the changes
 testing another directory
 testing again
 
-modify again 
-modify v2
+this is to test conflict
