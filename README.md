@@ -18,26 +18,3 @@ This is an ordered list:
 2. Item 2
 3. Item 3
 
-This is unordered:
-- item 1
-<<<<<<< HEAD
-- item 2
-
-test to push to github test
-=======
-- item 2 hello world
-
-
-testing change
-hello, this is the changes
-
-testing another directory
-testing again
-
-this is to test conflict
-
-i want to create conflict
-
-test again test again
-
-change
